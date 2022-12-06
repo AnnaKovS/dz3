@@ -1,0 +1,15 @@
+C:\DZ3\задача19\obj\Debug\net6.0\задача19.csproj.AssemblyReference.cache
+C:\DZ3\задача19\obj\Debug\net6.0\задача19.GeneratedMSBuildEditorConfig.editorconfig
+C:\DZ3\задача19\obj\Debug\net6.0\задача19.AssemblyInfoInputs.cache
+C:\DZ3\задача19\obj\Debug\net6.0\задача19.AssemblyInfo.cs
+C:\DZ3\задача19\obj\Debug\net6.0\задача19.csproj.CoreCompileInputs.cache
+C:\DZ3\задача19\bin\Debug\net6.0\задача19.exe
+C:\DZ3\задача19\bin\Debug\net6.0\задача19.deps.json
+C:\DZ3\задача19\bin\Debug\net6.0\задача19.runtimeconfig.json
+C:\DZ3\задача19\bin\Debug\net6.0\задача19.dll
+C:\DZ3\задача19\bin\Debug\net6.0\задача19.pdb
+C:\DZ3\задача19\obj\Debug\net6.0\задача19.dll
+C:\DZ3\задача19\obj\Debug\net6.0\refint\задача19.dll
+C:\DZ3\задача19\obj\Debug\net6.0\задача19.pdb
+C:\DZ3\задача19\obj\Debug\net6.0\задача19.genruntimeconfig.cache
+C:\DZ3\задача19\obj\Debug\net6.0\ref\задача19.dll
